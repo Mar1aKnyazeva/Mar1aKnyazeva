@@ -1,10 +1,10 @@
 <div id="header" align="center">
-    <h1>Hi there, I'm  Maria </h1>
+    <h1>Welcome! </h1>
     <h3>Data Analyst</h3>
 </div>
 
 <div id="socials" align="center">
-    <a href=["linkedin-url"](https://www.linkedin.com/in/mariaknyazeva/)>
+    <a href=https://www.linkedin.com/in/mariaknyazeva/)>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
@@ -17,8 +17,11 @@
 
 ### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="js" width="40" height="40"/>&nbsp;
-
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" title="js" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" title="js" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain.svg" title="js" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" title="js" width="40" height="40"/>&nbsp;          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" title="js" width="40" height="40"/>&nbsp;
 
 
 ### My stat
