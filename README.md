@@ -7,6 +7,9 @@
     <a href=https://www.linkedin.com/in/mariaknyazeva/)>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+    <a href=https://hh.ru/resume/e87affc5ff0d69f3730039ed1f6b6d676e3977?from=share_ios/)>
+    <img src="https://img.shields.io/badge/HeadHunter-red?style=for-the-badge&logo=HeadHunter&logoColor=white" alt="LinkedIn"/>
+  </a>
 </div>
 
 ### Facts about me
