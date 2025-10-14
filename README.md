@@ -13,8 +13,8 @@
 </div>
 
 ### Facts about me
-- 📚 I’m currently continue learning **Data Analysys**
-- 👷‍♀️ Worked as a construction engineer for 4 years
+- 📚 I’m currently continue improving hard skills in **Data Analysys**
+- 👩🏻‍💻 Product Analyst
 - 🗨️ Languages: Russian, English
 
 ---
